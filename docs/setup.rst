@@ -12,7 +12,7 @@ Windows
 
 4. `Install Chrome <https://www.google.com/chrome/>`_.
 
-5. Open :ref:`Command Prompt <how-to-use-command-prompt>`.
+5. Open :ref:`Command Prompt <how-to-use-command-prompt>`. Make sure you Run the cmd.exe as administrator.
 
 6. Copy, paste and run these commands:
 
